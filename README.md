@@ -1,5 +1,7 @@
 # Research Workbench
 
+[![pages-build-deployment](https://github.com/praneetpanwar444-gif/research-workbench-demos/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/praneetpanwar444-gif/research-workbench-demos/actions/workflows/pages/pages-build-deployment)
+
 A small, open demonstration portfolio with an interactive field-planning explorer and a research/maths study app. Built with AI assistance. All planning inputs and practice examples are synthetic; no private or employer data is included.
 
 ## Live demos
@@ -41,3 +43,13 @@ The Notion and Clay project workspaces are separate private drafts; they are not
 - `README.md`: setup, formulas, expected checks and limitations.
 
 Prepared 29 October 2026.
+
+## Browser verification — 29 October 2026
+
+Verified on the published GitHub Pages site: 3/3 calculation checks; low-budget and capacity presets; keyboard slider updates; flashcard reveal and navigation; topic filtering; correct/incorrect feedback; review persistence after reload; and review reset. GitHub Pages build and deployment completed successfully.
+
+## Screenshots
+
+![Portfolio homepage](research-workbench-live.png)
+
+![Study app](research-study-lab-live.png)
