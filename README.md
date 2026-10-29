@@ -48,8 +48,10 @@ Prepared 29 October 2026.
 
 Verified on the published GitHub Pages site: 3/3 calculation checks; low-budget and capacity presets; keyboard slider updates; flashcard reveal and navigation; topic filtering; correct/incorrect feedback; review persistence after reload; and review reset. GitHub Pages build and deployment completed successfully.
 
+
+
 ## Screenshots
 
-![Portfolio homepage](research-workbench-live.png)
+![Research Workbench portfolio homepage](https://github.com/user-attachments/assets/73c296b1-6340-452d-8e83-97af62f7a08e)
 
-![Study app](research-study-lab-live.png)
+![Research and Maths Study Lab](https://github.com/user-attachments/assets/7df48ad1-eaa9-4a8a-a768-08ee15782384)
